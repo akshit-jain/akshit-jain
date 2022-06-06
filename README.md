@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshit-jain
+- 👋 Hi, I’m Akshit Jain
 - 👀 I’m interested in Data Analytics / Science
 - 🌱 I’m currently pursuing my engineering degree in Information technology
 - 📫 Reach me: aj.akshitjain@gmail.com
