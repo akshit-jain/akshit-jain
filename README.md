@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @akshit-jain
 - 👀 I’m interested in Data Analytics / Science
 - 🌱 I’m currently pursuing my engineering degree in Information technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me: aj.akshitjain@gmail.com
 
 <!---
 akshit-jain/akshit-jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
