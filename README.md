@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshit-jain
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics / Science
 - 🌱 I’m currently pursuing my engineering degree in Information technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
