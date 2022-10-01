@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshit Jain
-- 👀 I’m interested in Data Analytics / Science
+- 👀 I’m interested in Business Analytics and Data Analytics / Science
 - 🌱 I’m currently pursuing my engineering degree in Information Technology
 - 📫 Reach me: aj.akshitjain@gmail.com
 
